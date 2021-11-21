@@ -2,6 +2,7 @@
 stephen-kimwe/stephen-kimwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <h1>
   Stephen Kimwe
 </h1>
@@ -37,3 +38,4 @@ You can click the Preview link to take a look at your changes.
 > > Crypto 
 > > 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-kimwe)](https://github.com/anuraghazra/github-readme-stats)
