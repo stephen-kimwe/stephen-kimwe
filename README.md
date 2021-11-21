@@ -2,10 +2,21 @@
 stephen-kimwe/stephen-kimwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h1>
+  <div class="badge-base LI-profile-badge" 
+     data-locale="en_US" 
+     data-size="large" 
+     data-theme="light" 
+     data-type="VERTICAL" 
+     data-vanity="stephen-kimwe" 
+     data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/stephen-kimwe?trk=profile-badge">Stephen Kimwe</a>
+  </div>
+</h1>
+              
+              
 # Student at KCA University
 ## Business and Information Technology Major
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 > Technocratic Programmer
 > > Server-Side Scripts in PHP, Java
