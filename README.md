@@ -4,10 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 # Student at KCA University
 ## Business and Information Technology Major
-1. [~] GRADUATE
-2. [~] INTERN
-3. [~] ATTACHMENT
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 > Technocratic Programmer
 > > Server-Side Scripts in PHP, Java
