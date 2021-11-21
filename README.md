@@ -3,8 +3,32 @@ stephen-kimwe/stephen-kimwe is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 
 --->
-- 👋 Hi, I’m @stephen-kimwe undergraduate at KCA UNiversity
-- 👀 Information Technology, DevOps and SysOps enthusiast
-- 🌱 Business Major, well versed in the Fintech 
-- 💞 Accepting collaborations on new projects.
 
+# Student at KCA University
+## Business and Information Technology Major
+> Technocratic Programmer
+> > Server-Side Scripts in PHP, Java
+> > 
+> > Front End Developer HTML, CSS, JavaScript 
+> > 
+> > 
+> > 
+> > Software Programmer #DotNet
+> > 
+> > Indie Game Developer C# using Unity
+
+> Elite Accountant
+> > Business Law
+> > 
+> > Business IT Ethics
+> > 
+> > Cost, Management and Financial Accountant
+> > 
+> > 
+
+
+> Entrepreneur
+> > [Kimwe.tech](https://kimwe.tech) coming soon!!! 
+> > 
+> > Crypto 
+> > 
