@@ -7,8 +7,8 @@ You can click the Preview link to take a look at your changes.
 </h1>
               
               
-# Student at KCA University
-## Business and Information Technology Major
+## Student at KCA University
+### Business and Information Technology Major
 
 > Technocratic Programmer
 > > Server-Side Scripts in PHP, Java
