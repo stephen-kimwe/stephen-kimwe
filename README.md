@@ -51,7 +51,6 @@ You can click the Preview link to take a look at your changes.
      data-iframe-height="270" 
      data-share-badge-id="8fbb5966-7f1e-40b1-82b5-b976fb1c318d" 
      data-share-badge-host="https://www.credly.com">
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 <div 
      class="badge-base LI-profile-badge" 
