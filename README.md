@@ -3,11 +3,7 @@ stephen-kimwe/stephen-kimwe is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1>
-  Stephen Kimwe
-</h1>
-              
-              
+# Stephen Kimwe               
 ## Student at KCA University
 ### Business and Information Technology Major
 
