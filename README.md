@@ -49,7 +49,4 @@ You can click the Preview link to take a look at your changes.
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8fbb5966-7f1e-40b1-82b5-b976fb1c318d" data-share-badge-host="https://www.credly.com"></div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-kimwe)](https://github.com/anuraghazra/github-readme-stats)
-
-
-              
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-kimwe)](https://github.com/anuraghazra/github-readme-stats)              
