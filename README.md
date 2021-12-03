@@ -47,6 +47,5 @@ You can click the Preview link to take a look at your changes.
 2. [x] Android Development in kotlin 
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-kimwe)](https://github.com/anuraghazra/github-readme-stats)              
